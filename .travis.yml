@@ -1,0 +1,15 @@
+language: ruby
+before_install: gem install bundler -v 1.17.3
+script: ./build.sh
+branches:
+  only:
+  - master
+rvm:
+- 2.6.0
+notifications:
+  email:
+    on_success: never
+    on_failure: always
+env:
+  global:
+    secure: o1Kj2IDrQLuAIUE290hoEOJfgT8x1ekF+/XP0+rHAEKBPwte2kW/su2TAN6Gla9PNZNS7Nvm3UsY5KxTYs9WIhiykUkg4JXzhe+pwvVAHVAOfkBgQ02PV2gAKmXf9QS1SAVUotp3XN/kBUfoSv4y7HQ8/drXLUQtnQjjMc+WahL2PfY1QKvP8FOtYsxlO66oFOR0wjKDjRik7IFoLCugjL4LMF6An1yWckkGrZSmYviQgl06EXSEnc9jEiP8qCUtZURsiMAdnvCrNXlaLmMKT2C0QA/Jo1M7RfWC3ZUF7VgUXzBkZVtwKD16Exbfu+XzF8Owa9S4+9GbZLEKOveI9U0DxsqT9sZ4d38wHwIh0tjqgb/niLEVR1PDcbjEaf01U0tcq7vftymAxIyzkV5sl6jX1Z1Dzfm/UTmLhdd5oNFVPYjMgYyVuG+uyoBPOn6sEXbgxZMmDwX6AhhO/r8gGlOQdh7KXc5MmJuUFqJC3YwLe4xzMrQKaQJf6ZwXSCY+hFjOf5tY/mq0xnTjhtnirlHMg9jwHKB7ws47/2nMndWHGpEDIXIp4wAZ+tgCs+yOLq9shHAvr/a4YBSqUUNuK++7PO7ch1xNGYc7wGKtYRUolYLQAauKkj5ih1OncybjtPw9gzeFJO4jtXYZcvGFugYFVdvlFrdukRNc4OwV7gM=
