@@ -1,0 +1,5 @@
+:page-layout: standard
+:icons: font
+include::header.adoc[]
+
+==== Case Study 2020 (Blockchain)

@@ -1,0 +1,21 @@
+:page-layout: standard
+:icons: font
+include::header.adoc[]
+
+==== Internal Assessment
+
+===== IA Guides
+
+* https://docs.google.com/document/d/1ka5yN41Yb3he3w02WkFxWhLb9CG2MgscL-fe2ax_jM0/edit#heading=h.d44y8u89w34y[IA Notes^]
+* http://ibcomp.fis.edu/2017/projects/ProjectStart2018.pdf[Dave Mulkey's IA Guide^]
+* https://pbaumgarten.com/ib-compsci/internal-assessment/[Paul Baumgarten's IA Guide^]
+* https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_2_e&part=4&chapter=5[IB Publishing Assessment Criteria^]
+
+===== Examples and Ideas
+
+* https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_2_e&part=4&chapter=7[IB Publishing Examples^]
+* https://docs.google.com/spreadsheets/d/11g06F_GN3hs1rNFnL_3xnJZGQQO8Xr25ZTH8aL5iiCc/edit#gid=0[IA Examples & Student Ideas^]
+
+===== Resources
+
+* https://drive.google.com/open?id=1-ijjHludXL9TpWS7Z-7wdvoqLj4IqAEl[Forms.zip (IA Documentation Templates)^]

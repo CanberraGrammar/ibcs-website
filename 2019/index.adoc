@@ -1,5 +1,26 @@
+<<<<<<< HEAD
 :page-layout: standard_fork
 :page-title: IB Computer Science 2019
 :icons: font
 
 = IB Computer Science 2019
+=======
+:page-layout: standard
+:icons: font
+include::header.adoc[]
+
+==== Canberra Grammar School
+
+Mr Matthew Pham +
+matthew.pham@cgs.act.edu.au
+
+==== Course documents
+
+* http://ib.compscihub.net/wp-content/uploads/2015/04/IBCompSciGuide.pdf[IB Computer Science Guide^]
+* https://drive.google.com/drive/folders/1QTRJUsVw4YtwnOep6_QikVa_OEeVUpUb?usp=sharing[Course Google Drive^]
+
+==== Lesson Summaries
+
+* http://cgs.ist/ib11[Year 11 Google Doc^]
+* http://cgs.ist/ib12[Year 12 Google Doc^]
+>>>>>>> First draft of website with navbar and IA resources added

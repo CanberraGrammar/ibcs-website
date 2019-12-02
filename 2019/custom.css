@@ -19,20 +19,32 @@ table span.outcomes {
 	font-size: 11px;
 }
 
+.nav {
+  margin: 0;
+  padding: 0;
+}
 
-ul.nav {
+.nav p {
+  margin: 0;
+  padding: 0;
+}
+
+.nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: navy;
+  /*#333;*/
 }
 
-ul.nav li {
+.nav ul li {
   float: left;
+  margin: 0px;
+
 }
 
-ul.nav li a {
+.nav ul li a {
   display: block;
   color: white;
   text-align: center;
@@ -42,6 +54,6 @@ ul.nav li a {
 
 /* Change the link color to #111 (black) on hover */
 
-ul.nav li a:hover {
-  background-color: #111;
+.nav ul li a:hover {
+  background-color: blue;/*#111;*/
 }
