@@ -1,0 +1,3 @@
+[.subnav]
+* <<6_case.adoc#,Case Study>>
+* <<6_case_topics.adoc#,Specific Topics>>

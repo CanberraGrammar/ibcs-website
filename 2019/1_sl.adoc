@@ -3,3 +3,17 @@
 include::header.adoc[]
 
 ==== SL Topics
+
+===== IB CompSci Hub
+
+* https://ib.compscihub.net/paper-1/topic-1-1[(1.1) Systems in Organizations^]
+* https://ib.compscihub.net/paper-1/topic-1-2[(1.2) System Design^]
+* https://ib.compscihub.net/paper-1/topic-2[(2) Computer Architecture^]
+* https://ib.compscihub.net/paper-1/topic-3[(3) Networks^]
+
+===== Core Computer Science Textbook
+
+* (1.1) Systems in Organizations (p1-22)
+* (1.2) System Design (p23-60)
+* (2) Computer Architecture (p61-123)
+* (3) Networks (p124-171)

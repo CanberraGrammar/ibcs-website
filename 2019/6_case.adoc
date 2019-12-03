@@ -2,4 +2,33 @@
 :icons: font
 include::header.adoc[]
 
-==== Case Study 2020 (Blockchain)
+include::6_case_header.adoc[]
+
+==== 2020 Case Study (Blockchain)
+
+* https://drive.google.com/file/d/1ZociwgzsqBEANZmsYOiVRciKlnNI7zhH/view[2020 Case Study (PDF)^]
+* https://docs.google.com/document/d/1hz-fZVPApgtvPjEuAUU5xvdeT0FnJyNd9qgI9eavLV4/edit#heading=h.3zamodwl0601[2020 Case Study (Google Doc)^]
+* <<6_case_topics.adoc#,Specific Topics (New page)>>
+
+==== Videos & Podcasts
+
+* https://www.youtube.com/watch?v=bBC-nXj3Ng4&disable_polymer=true[How does bitcoin actually work? (YouTube)^]
+* https://blockgeeks.com/guides/what-is-blockchain-technology/[What is blockchain? (YouTube)^]
+* https://www.bbc.co.uk/programmes/b0952svj[David Baddiel tries to understand (Podcast)^]
+* https://www.youtube.com/watch?v=SSo_EIwHSd4[How does a blockchain work? Simply explained (YouTube)^]
+
+==== Quizzes
+
+* https://quizlet.com/au/415210543/ib-computer-science-case-study-2020-additional-flash-cards/[2020 Case Study Flashcards (Quizlet)^]
+* https://create.kahoot.it/share/2019-case-study-terms-p1/f5052ad2-ab7a-4a84-bbea-269361807744[Key Terms 1 (Kahoot)^]
+* https://create.kahoot.it/share/2019-case-study-terms-p2/077f2fcd-af03-452d-9528-2718dc0991ec[Key Terms 2 (Kahoot)^]
+* https://create.kahoot.it/share/2019-case-study-terms-p3/bfed9ccf-6681-4cfe-ab52-a691adbfa4a7[Key Terms 3 (Kahoot)^]
+* https://create.kahoot.it/share/2019-case-study-terms-p4/bceeae95-f7c8-41d0-af44-e4b9ac868685[Key Terms 4 (Kahoot)^]
+
+==== Other Websites
+
+* https://sites.google.com/iszl.ch/casestudy/home[Google Site^]
+* https://computersciencewiki.org/index.php/2020_case_study[Computer Science Wiki 2020 Case Study^]
+* https://www.guru99.com/blockchain-tutorial.html#2[Guru99: Blockchain Tutorial for Beginners^]
+* https://blockgeeks.com/guides/what-is-blockchain-technology/[Block Geeks: What is blockchain technology?^]
+* https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it[Khan Academy: Bitcoin^]

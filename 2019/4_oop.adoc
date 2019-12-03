@@ -1,5 +1,0 @@
-:page-layout: standard
-:icons: font
-include::header.adoc[]
-
-==== OOP (Java)

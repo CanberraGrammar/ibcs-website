@@ -10,9 +10,14 @@ matthew.pham@cgs.act.edu.au
 ==== Course documents
 
 * http://ib.compscihub.net/wp-content/uploads/2015/04/IBCompSciGuide.pdf[IB Computer Science Guide^]
-* https://drive.google.com/drive/folders/1QTRJUsVw4YtwnOep6_QikVa_OEeVUpUb?usp=sharing[Course Google Drive^]
 
-==== Lesson Summaries
+==== 2020-2021 (Year 11)
 
 * http://cgs.ist/ib11[Year 11 Google Doc^]
+
+==== 2019-2020 (Year 12)
+
+* https://drive.google.com/file/d/1qvtAwTrv19RZD-Z8e7mlM62l6QG_gI9w/view?usp=sharing[Course Outline^]
 * http://cgs.ist/ib12[Year 12 Google Doc^]
+* https://drive.google.com/drive/folders/1QTRJUsVw4YtwnOep6_QikVa_OEeVUpUb?usp=sharing[Course Google Drive^]
+* https://drive.google.com/drive/folders/1b6k41AkALESDTi0nmeFTZeB1pAuKNh6U?usp=sharing[Shared Work Folder^]

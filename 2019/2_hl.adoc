@@ -3,3 +3,13 @@
 include::header.adoc[]
 
 ==== HL Topics
+
+===== IB CompSci Hub
+
+* https://ib.compscihub.net/paper-1/topic-6[(6) Resource Management^]
+* https://ib.compscihub.net/paper-1/topic-7[(7) Control^]
+
+===== Advanced Computer Science Textbook
+
+* (6) Resource Management (p68-94)
+* (7) Control (p95-120)

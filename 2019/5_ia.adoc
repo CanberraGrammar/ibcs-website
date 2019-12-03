@@ -10,6 +10,7 @@ include::header.adoc[]
 * http://ibcomp.fis.edu/2017/projects/ProjectStart2018.pdf[Dave Mulkey's IA Guide^]
 * https://pbaumgarten.com/ib-compsci/internal-assessment/[Paul Baumgarten's IA Guide^]
 * https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_2_e&part=4&chapter=5[IB Publishing Assessment Criteria^]
+* https://ib.compscihub.net/internal-assessment/overview[IB CompSci Hub IA Overview^]
 
 ===== Examples and Ideas
 

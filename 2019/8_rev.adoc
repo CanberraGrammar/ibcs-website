@@ -1,0 +1,14 @@
+:page-layout: standard
+:icons: font
+include::header.adoc[]
+
+==== Revision
+
+===== Quizzes
+
+* https://quizlet.com/230785247/topic-1-1-system-fundamentals-flash-cards/[1.1 System Fundamentals Flashcards (Quizlet)^]
+* https://quizlet.com/Prasiddha_Sudhakar/folders/computer-science/sets[Flashcards by Topic (Quizlet)^]
+
+===== Practice Questions
+
+* https://ib.compscihub.net/wp-content/uploads/2016/01/CSIBTopicStudyGuidesTestReview.pdf[IB CompSci Hub: Questions by Topic]

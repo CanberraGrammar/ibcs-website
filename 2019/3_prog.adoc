@@ -2,4 +2,28 @@
 :icons: font
 include::header.adoc[]
 
-==== Programming (Computational Thinking)
+==== Computational Thinking
+
+===== Pseudocode Compilers
+
+* http://ibcomp.fis.edu/pseudocode/pcode.html[Dave Mulkey's Compiler (written in JS)^]
+* https://corallanguage.org/simulator/[Coral Language Simulator^]
+
+===== IB CompSci Hub
+
+* https://ib.compscihub.net/paper-1/topic-4[(4) Computational Thinking^]
+* https://ib.compscihub.net/paper-2/option-d/d-1-objects-as-programming-concept[(D.1) Objects as a programming concept^]
+* https://ib.compscihub.net/paper-2/option-d/d-2-features-of-oop[(D.2) Features of OOP^]
+* https://ib.compscihub.net/paper-2/option-d/d-3-program-development[(D.3) Program Development^]
+* https://ib.compscihub.net/paper-2/option-d/d-4-advanced-program-development-hl-only[(D.4) Advanced Program Development (HL)^]
+* https://ib.compscihub.net/paper-1/topic-5[(5) Abstract Data Structures (HL)^]
+
+===== Core Computer Science Textbook
+
+* (4) Computational Thinking (p174-290)
+* (D) Object Oriented Programming (p291-349)
+
+===== Advanced Computer Science Textbook
+
+* (5) Abstract Data Structures (p1-66)
+* (D.4) Advanced Program Development (p121-284)

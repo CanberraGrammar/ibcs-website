@@ -1,0 +1,15 @@
+:page-layout: standard
+:icons: font
+include::header.adoc[]
+
+==== Shared Work
+
+===== 2019-2020
+
+* https://drive.google.com/drive/folders/1b6k41AkALESDTi0nmeFTZeB1pAuKNh6U[Shared Work Folder^]
+* https://drive.google.com/drive/folders/13R9tG4ewKaWaZTqEBAUE2hm1iU5UZwuZ[(1.1) System Fundamentals (Folder)^]
+* https://drive.google.com/open?id=1X-u8fqeV5wKvFiGck6aDKPrsU15FZdPm[(1.2) System Design (Folder)^]
+* https://drive.google.com/drive/folders/1KxdNrxoznkOTGYPa7YoMjDTP_xIl5yCN[(2) Computer Organisation (Folder)^]
+* https://drive.google.com/drive/folders/1KxdNrxoznkOTGYPa7YoMjDTP_xIl5yCN[(3) Networks (Folder)^]
+* https://docs.google.com/document/d/1lBvG31urlo4u-Zw6w1v3HRh3es36XCQzeAZUYBaich8/edit?usp=sharing[(6) Resource Management (Doc)^]
+* https://docs.google.com/document/d/1lBvG31urlo4u-Zw6w1v3HRh3es36XCQzeAZUYBaich8/edit?usp=sharing[(7) Control (Doc)^]

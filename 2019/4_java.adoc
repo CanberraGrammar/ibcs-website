@@ -1,0 +1,28 @@
+:page-layout: standard
+:icons: font
+include::header.adoc[]
+
+==== Java & Object Oriented Programming
+
+===== Resources
+
+* https://drive.google.com/open?id=189-u0dFql1adA5CpCBsK4nPDESBF7P0S[Java PPTs^]
+
+===== IDE Setup
+
+* https://www.vogella.com/tutorials/EclipseMaven/article.html[Eclipse + Maven^]
+* https://eclipsesource.com/blogs/tutorials/egit-tutorial/[Eclipse + Github^]
+
+===== GUI Tutorials
+
+* https://vaadin.com/tutorials/vaadin-quick-start[Vaadin Quick Start Tutorial^]
+* https://examples.javacodegeeks.com/desktop-java/ide/eclipse/eclipse-windowbuilder-tutorial/[Eclipse Window Builder^]
+* https://docs.oracle.com/javase/tutorial/uiswing/events/keylistener.html[Netbeans Swing: KeyListener^]
+
+===== Web APIs
+
+* http://sparkjava.com/tutorials/maven-setup#eclipse[Eclipse: SparkJava^]
+* https://www.mkyong.com/java/how-to-send-http-request-getpost-in-java/[Mkyong: HTTP Get/Post Requests^]
+* https://www.vogella.com/tutorials/ApacheHttpClient/article.html[Vogella: Apache HTTP Client^]
+* https://www.baeldung.com/java-org-json[Baeldung: JSON with Java^]
+* https://www.mkyong.com/mongodb/java-mongodb-hello-world-example/[Java + MongoDB Example^]

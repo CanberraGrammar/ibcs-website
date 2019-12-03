@@ -1,0 +1,8 @@
+:page-layout: standard
+:icons: font
+include::header.adoc[]
+
+==== Extended Essay
+
+* https://drive.google.com/file/d/160tmNfTpNmhycB31uinlQIkTdt271IyL/view?usp=sharing[Computer Science Subject Specific Guidance (PDF)^]
+* https://drive.google.com/file/d/1k1UwxM_ydXCvmVETxsHALdSqzsYwB2fr/view?usp=sharing[May 2020 EE Report]

@@ -2,12 +2,15 @@
 == Year 11 & 12 IB Computer Science
 [.nav]
 * <<index.adoc#,Home>>
-* <<1_sl.adoc#,SL Topics>>
-* <<2_hl.adoc#,HL Topics>>
-* <<3_prog.adoc#,Programming>>
-* <<4_oop.adoc#,OOP>>
+* <<1_sl.adoc#,SL>>
+* <<2_hl.adoc#,HL>>
+* <<3_prog.adoc#,Comp & OOP>>
+* <<4_java.adoc#,Java>>
 * <<5_ia.adoc#,IA>>
 * <<6_case.adoc#,Case Study>>
-* <<7_rev.adoc#,Revision>>
+* <<7_ee.adoc#,EE>>
+* <<8_rev.adoc#,Revision>>
+* <<9_links.adoc#,Links>>
+* <<10_shared.adoc#,SW>>
 [.right.text-center]
 icon:file-text-o[5x, role=Maroon]

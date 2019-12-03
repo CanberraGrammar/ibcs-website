@@ -1,0 +1,39 @@
+:page-layout: standard
+:icons: font
+include::header.adoc[]
+
+include::6_case_header.adoc[]
+
+==== Specific Topics
+
+===== Proof of work
+
+* https://www.danielefavi.com/blog/blockchain-works-proof-work/[Daniel Efavi: Proof of work^]
+* https://www.investopedia.com/tech/how-does-blockchain-work/[Investopedia: How does blockchain work^]
+* https://medium.com/swlh/how-does-bitcoin-blockchain-mining-work-36db1c5cb55d[Medium: how bitcoin mining works^]
+
+===== SHA-256 Hash Algorithm
+
+* https://en.wikipedia.org/wiki/Secure_Hash_Algorithms[Wikipedia: Secure Hash Secure_Hash_Algorithms^]
+* https://demoblockchain.org/hash[Demo Block Chain: Hash^]
+* https://www.danielefavi.com/sha256-hash-calculator/[Danial Efavi: Hash Calculator^]
+
+===== What is mining?
+
+* https://www.youtube.com/watch?v=BODyqM-V71E[What is bitcoin mining? (Youtube)^]
+* https://dev.to/damcosset/blockchain-what-is-mining-2eod[Damien Cosset: What is mining? (Article)^]
+* https://blog.goodaudience.com/how-a-miner-adds-transactions-to-the-blockchain-in-seven-steps-856053271476[Good Audience: how mining works and transactions are processed in seven steps^]
+
+===== Double spending
+
+* https://www.tutorialspoint.com/blockchain/blockchain_double_spending[Tutorials Point: Double Spending^]
+* https://coinsutra.com/bitcoin-double-spending/[Coin Sutra^]
+
+===== Merkle Tree
+
+* https://www.tutorialspoint.com/blockchain/blockchain_merkle_tree.htm[Tutorials Point: Merkle Tree^]
+
+===== 51% Attack
+
+* https://medium.com/coinmonks/what-is-a-51-attack-or-double-spend-attack-aa108db63474[Medium^]
+* https://www.youtube.com/watch?v=BuTj9raHQOU[Binance Academy (Youtube)]

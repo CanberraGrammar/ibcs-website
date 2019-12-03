@@ -19,12 +19,12 @@ table span.outcomes {
 	font-size: 11px;
 }
 
-.nav {
+.nav, .subnav{
   margin: 0;
   padding: 0;
 }
 
-.nav p {
+.nav p, .subnav p {
   margin: 0;
   padding: 0;
 }
@@ -38,13 +38,22 @@ table span.outcomes {
   /*#333;*/
 }
 
-.nav ul li {
+.subnav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  /*#333;*/
+}
+
+.nav ul li, .subnav ul li {
   float: left;
   margin: 0px;
 
 }
 
-.nav ul li a {
+.nav ul li a, .subnav ul li a {
   display: block;
   color: white;
   text-align: center;
@@ -56,4 +65,8 @@ table span.outcomes {
 
 .nav ul li a:hover {
   background-color: blue;/*#111;*/
+}
+
+.subnav ul li a:hover {
+  background-color: grey;/*#111;*/
 }

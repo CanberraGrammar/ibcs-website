@@ -1,0 +1,12 @@
+:page-layout: standard
+:icons: font
+include::10_shared.adoc[]
+
+===== 1.1 Systems in Organisations
+
+* https://docs.google.com/document/d/1E879ckB5t-TmwsP2NrS8WflVwqykEsBFcxK0KW3DDfo/edit?usp=sharing[(1.1.1-1.1.7): Planning and installation^]
+* https://drive.google.com/open?id=1n6NvMho0G_vhIZpDCgxyAuL80347TssfmhfyjLbyHg0[(1.1.4) SaaS, PaaS, IaaS^]
+* https://docs.google.com/document/d/15rJh9FhvEuu6vQAvFYDTmEfm4ldT3fjRefsr2LXqvOk/edit?usp=sharing[(1.1.5-1.1.7): Additional questions^]
+* https://docs.google.com/document/d/18r46nMxqegRQDeYz_NMPQ4VNgGAgeL-zQrLhDffh9GA/edit?usp=sharing[(1.1.8-1.1.10) User focus^]
+* https://docs.google.com/document/d/1o_Z2z8XXekFMCthw3YgijisFMci1AV9KN5GQ7PJse_E/edit?usp=sharing[(1.1.11-1.1.13) System backup^]
+* https://docs.google.com/document/d/1tIS5on5YBo9a9ZxA9fvbZvO4tmWBs-LfvVoLdAulMlc/edit?usp=sharing[(1.1.14) Software deployment^]
