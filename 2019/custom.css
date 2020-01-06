@@ -70,3 +70,21 @@ table span.outcomes {
 .subnav ul li a:hover {
   background-color: grey;/*#111;*/
 }
+
+.none ul {
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.inline {
+  display: inline;
+  width: 20%;
+}
+
+.right {
+  text-align: right;
+  display: inline;
+  float: right;
+}

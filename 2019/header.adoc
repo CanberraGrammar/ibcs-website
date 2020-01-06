@@ -1,5 +1,9 @@
 [options="header"]
-== Year 11 & 12 IB Computer Science
+
+++++
+include::header_top.html[]
+++++
+
 [.nav]
 * <<index.adoc#,Home>>
 * <<1_sl.adoc#,SL>>
