@@ -2,6 +2,8 @@
 :icons: font
 include::header.adoc[]
 
+include::index_header.adoc[]
+
 ==== Course documents
 
 * http://ib.compscihub.net/wp-content/uploads/2015/04/IBCompSciGuide.pdf[IB Computer Science Guide^]

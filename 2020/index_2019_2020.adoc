@@ -1,0 +1,98 @@
+:page-layout: standard
+:icons: font
+include::header.adoc[]
+
+include::index_header.adoc[]
+
+=== 2019-2020 (Y12)
+
+==== Schedule
+
+[cols="9"]
+|===
+
+^|*Week*
+^|*Term 1*
+^|*Term 2*
+^|*Term 3*
+^|*Term 4*
+^|*Term 5*
+^|*Term 6*
+^|*Term 7*
+^|*Term 8*
+
+a|[.none]
+* 1
+* 2
+* 3
+* 4
+* 5
+* 6
+* 7
+* 8
+* 9
+* 10
+
+a|[.none]
+* Sys Org
+* Sys Org
+* Comp Think
+* Comp Arch
+* Java Intro
+* Java Exer
+* Comp Think
+* Java IDE/GUI
+* Networks
+* Networks
+
+a|[.none]
+* Sys Design
+* Sys Design
+* Java Plugins
+* *Group IA*
+* *Group IA*
+* *Group IA*
+* *Group IA*
+* Revise `HM`
+* *Practice Test*
+
+a|[.none]
+* OOP Concept
+* OOP Feature
+* OOP Dev
+* OOP Dev
+* *OOP Paper 2*
+* Comp Think
+* Revision
+* Revision
+* `*Exam Week*`
+* `*Exam*` Review
+* `Leadership`
+
+a|[.none]
+* Resources
+* Control
+* IA Plan
+* Data Struct
+* Case Study
+* IA Design
+* `Camp Week`
+* IA Dev
+
+a|[.none]
+* IA Update
+* Adv OOP
+* Adv OOP
+* IA Draft
+* IA Draft
+* Revision
+* `*Y12 Exams*`
+* `*Y12 Exams*`
+* Case Study
+* Case Study
+
+a|
+a|
+a|
+
+|===
