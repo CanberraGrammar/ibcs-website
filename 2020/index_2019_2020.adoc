@@ -54,7 +54,7 @@ a|[.none]
 * *Group IA*
 * *Group IA*
 * Revise `HM`
-* *Practice Test*
+* *Form Test*
 
 a|[.none]
 * OOP Concept
@@ -66,13 +66,12 @@ a|[.none]
 * Revision
 * Revision
 * `*Exam Week*`
-* `*Exam*` Review
-* `Leadership`
+* `*Exam*` `Lead`
 
 a|[.none]
 * Resources
 * Control
-* IA Plan
+* *IA Plan*
 * Data Struct
 * Case Study
 * IA Design
@@ -94,5 +93,38 @@ a|[.none]
 a|
 a|
 a|
+
+a|[.none]
+* ------------
+* *Assessment*
+* ------------
+a|[.none]
+`*EE Intro*`
+`Week 10`
+a|[.none]
+`*Group IA*`
+`Week 7`
+`*Form Test*`
+`Week 9`
+a|[.none]
+`*OOP Paper 2*`
+`Week 5`
+`*SL Paper 1*`
+`Week 9/10`
+a|`*IA Plan*`
+`Week 3`
+a|[.none]
+`*EE Sust*`
+`Week 1`
+`*EE Draft*`
+`Week 10`
+a|[.none]
+`*IA Draft*`
+`Week 1`
+`*IA Final*`
+`Week 9`
+a|
+a|
+
 
 |===

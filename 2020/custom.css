@@ -22,11 +22,32 @@ table span.outcomes {
 .nav, .subnav{
   margin: 0;
   padding: 0;
+  position: sticky;
+  height: 50px;
+}
+
+.nav {
+  top: 0px;
+
+}
+
+.subnav {
+  top: 50px;
+  border-top: 1px dotted white;
+
+}
+
+.header_top {
+  margin: 10px;
+  position: sticky;
+  top: 0px;
+  background-color: red;
 }
 
 .nav p, .subnav p {
   margin: 0;
   padding: 0;
+  border-right: 1.2px dotted white;
 }
 
 .nav ul {
@@ -35,6 +56,7 @@ table span.outcomes {
   padding: 0;
   overflow: hidden;
   background-color: navy;
+
   /*#333;*/
 }
 

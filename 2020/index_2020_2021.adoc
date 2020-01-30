@@ -49,11 +49,11 @@ a|[.none]
 * Networks
 * Networks
 * Revision
-* *Topic Test*
+* *Form Test*
 * IA Intro
-* *Group IA*
-* *Group IA*
-* *Group IA*
+* *Guided IA*
+* *Guided IA*
+* *Guided IA*
 * Review `HM`
 
 a|[.none]
@@ -66,13 +66,12 @@ a|[.none]
 * Topic Review
 * Revision
 * `*Exam Week*`
-* `*Exam*` Review
-* `Leadership`
+* `*Exam*` `Lead`
 
 a|[.none]
 * Resources
 * Control
-* IA Plan
+* *IA Plan*
 * Data Struct
 * Case Study
 * IA Design
@@ -92,6 +91,38 @@ a|[.none]
 * Case Study
 
 a|
+a|
+a|
+
+a|[.none]
+* ------------
+* *Assessment*
+* ------------
+a|[.none]
+`*EE Intro*`
+`Week 10`
+a|[.none]
+`*Form Test*`
+`Week 4`
+`*Guided IA*`
+`Week 8`
+a|[.none]
+`*OOP Paper 2*`
+`Week 5`
+`*SL Paper 1*`
+`Week 9/10`
+a|`*IA Plan*`
+`Week 3`
+a|[.none]
+`*EE Sust*`
+`Week 1`
+`*EE Draft*`
+`Week 10`
+a|[.none]
+`*IA Draft*`
+`Week 1`
+`*IA Final*`
+`Week 9`
 a|
 a|
 a|
