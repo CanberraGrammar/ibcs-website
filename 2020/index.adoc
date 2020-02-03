@@ -10,6 +10,12 @@ include::index_header.adoc[]
 * https://drive.google.com/file/d/1qvtAwTrv19RZD-Z8e7mlM62l6QG_gI9w/view?usp=sharing[Course Outline^]
 * https://drive.google.com/drive/folders/1QTRJUsVw4YtwnOep6_QikVa_OEeVUpUb?usp=sharing[Course Google Drive^]
 
+==== Student centred
+
+* https://docs.google.com/document/d/14j_PvWvYPIbMFOckORMJCu_CDHuI2hKltGu0qUjhzXA/edit?usp=sharing[2019-2020 Computer Science Booklet (SL)^]
+* https://docs.google.com/document/d/11ZZSazqr0Xr_hKFI1zrSBfCa0SLYIHqhX-rgfCpsGbI/edit?usp=sharing[2019-2020 Computer Science Booklet (HL)^]
+
+
 ==== Lesson summaries
 
 include::index_lessons.adoc[]
