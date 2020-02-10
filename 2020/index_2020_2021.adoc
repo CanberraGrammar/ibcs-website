@@ -118,6 +118,10 @@ a|[.none]
 `Week 1`
 `*EE Draft*`
 `Week 10`
+`*IA Design*`
+`Week 3`
+`*IA Impl*`
+`Week 9`
 a|[.none]
 `*IA Draft*`
 `Week 1`
