@@ -16,5 +16,6 @@ include::header_top.html[]
 * <<8_rev.adoc#,Revision>>
 * <<9_links.adoc#,Links>>
 * <<10_shared.adoc#,SW>>
+* <<11_worksheets.adoc#, Worksheets>>
 [.right.text-center]
 icon:file-text-o[5x, role=Maroon]
