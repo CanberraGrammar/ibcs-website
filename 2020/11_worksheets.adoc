@@ -2,14 +2,20 @@
 :icons: font
 include::header.adoc[]
 
-==== Worksheets (Nexus International School Singapore)
+=== Worksheets
 
-===== SL
+==== SL (Nexus International School Singapore)
 
-* TBA
+* https://drive.google.com/open?id=1PMsEEWEX2zcHUbKe8g0sa1UJlA3Fc1enqGj2Zxcmff8[2.1.9 - 2.1.10 Binary Representation^]
+* https://drive.google.com/open?id=1inXsnnFRe-6LvbbUwc4h1ppx-nlE4tnREWwvrr4YeyU[2.1.11 - 2.1.13 Simple Logic Gates^]
+* https://drive.google.com/open?id=1lLd_CWWTaYfJxlg4WClIg9I89SNVlMxTNeruW7cGYv8[3.1.1 - 3.1.5 Network Fundamentals^]
+* https://drive.google.com/open?id=10mGTMKjyyKhgs5YtJhrMEUXSBmZLjE83gu31HHRl9I0[3.1.6 - 3.1.11 Data Transmission^]
+* https://drive.google.com/open?id=18h57eG5xd-DcTx5CGDEskeae04siGXa_CMZMvpoM3dY[3.1.12 - 3.1.16 Wireless Networking^]
+* https://drive.google.com/open?id=1bsPzYZqXo0ooBsBfXtVmknLhonGtJkqCvL8bR_FYdX0[4.2 Connecting Computational Thinking and Program Design^]
+* https://drive.google.com/open?id=1lr7cy5kXqn-6bnvp7NeVLg6Ty4uETD2Q--Mv0ALf1Go[4.3.1 - 4.3.5 Nature of Programming Languages^]
 
 
-===== HL
+==== HL (Nexus International School Singapore)
 
 * https://drive.google.com/open?id=14_yHDa2S-E7ByO3ibT_q-htRKH-3ImNV-3Urekyv4rg[5.1.1 - 5.1.3 Thinking Recursively^]
 * https://drive.google.com/open?id=1zb9OSU5yVJ1ilz_5Jy2k0VUEzZt8VvBAbHYMv24t2tI[5.1.4 - 5.1.5 2D Arrays^]
