@@ -4,6 +4,16 @@ include::header.adoc[]
 
 === Worksheets
 
+==== SL (Canberra Grammar School)
+
+* https://drive.google.com/open?id=1u5SXOmqwr886gENrPoZEbcGufJggeSUuAGYoB9VZ3eU[(2.1.1-2.1.4) Computer Architecture^]
+* https://drive.google.com/open?id=1xG6zAMJJezC1sVA4uNyJCmFU46a9gDncH0LM93-RhnA[(2.1.5-2.1.8) Secondary memory, OS and apps^]
+* https://drive.google.com/open?id=1F1qlQYH8iJ4gnxf4usaNfqnp29X-6duNsIErvUTV4vg[(2.1.9-2.1.10) Binary representation^]
+* https://drive.google.com/open?id=1XoXqhbDAH8xUE4GlyBfWJ2ze4Y1ywEbYIJgFF3KGa68[(2.1.11-2.1.13) Simple logic gates^]
+* https://drive.google.com/open?id=1KhuPnIEUExMEdV7avwb_Mr4hXEeGxoB5guEMutpM4HU[(3.1.1-3.1.5) Network Architecture & VPNs^]
+* https://drive.google.com/open?id=1Zge1PHLKl7qTE4mLA3QQis_jEYBrRBrisS04V56iKfM[(3.1.6 - 3.1.11) Data Transmission^]
+* https://drive.google.com/open?id=133-61Xo7ehW8O6OD_NnGn6XUrp3vc7QP895tUNqqDH4[(3.1.12-3.1.16) Wireless Networks & Security^]
+
 ==== SL (Nexus International School Singapore)
 
 * https://drive.google.com/open?id=1PMsEEWEX2zcHUbKe8g0sa1UJlA3Fc1enqGj2Zxcmff8[2.1.9 - 2.1.10 Binary Representation^]
