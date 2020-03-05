@@ -4,6 +4,8 @@ include::header.adoc[]
 
 ==== Internal Assessment
 
+* https://drive.google.com/open?id=17uHaSPDD2y8e5G50M7t-7IQfHPKmIc-e[IA Resources (Google Drive Folder)^]
+
 ===== IA Guides
 
 * https://docs.google.com/document/d/1ka5yN41Yb3he3w02WkFxWhLb9CG2MgscL-fe2ax_jM0/edit#heading=h.d44y8u89w34y[IA Notes^]
@@ -11,6 +13,7 @@ include::header.adoc[]
 * https://pbaumgarten.com/ib-compsci/internal-assessment/[Paul Baumgarten's IA Guide^]
 * https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_2_e&part=4&chapter=5[IB Publishing Assessment Criteria^]
 * https://ib.compscihub.net/internal-assessment/overview[IB CompSci Hub IA Overview^]
+* https://drive.google.com/open?id=1AoAvAdIaKbhwtOzZUO5VJEVN2wgYma8R[Project Checklist^]
 
 ===== Examples and Ideas
 
