@@ -15,7 +15,7 @@ include::index_header.adoc[]
 
 * https://docs.google.com/document/d/14j_PvWvYPIbMFOckORMJCu_CDHuI2hKltGu0qUjhzXA/edit?usp=sharing[2019-2020 Computer Science Booklet (SL)^]
 * https://docs.google.com/document/d/11ZZSazqr0Xr_hKFI1zrSBfCa0SLYIHqhX-rgfCpsGbI/edit?usp=sharing[2019-2020 Computer Science Booklet (HL)^]
-* * https://drive.google.com/open?id=1wDbpF9moNKlof-ENR3pLa2ZLigPyzAX-BL-FaHyaons[2020-2021 Computer Science Booklet (SL)^]
+* https://drive.google.com/open?id=1wDbpF9moNKlof-ENR3pLa2ZLigPyzAX-BL-FaHyaons[2020-2021 Computer Science Booklet (SL)^]
 
 ==== Lesson summaries
 
