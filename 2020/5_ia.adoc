@@ -19,6 +19,7 @@ include::header.adoc[]
 
 * https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_2_e&part=4&chapter=7[IB Publishing Examples^]
 * https://docs.google.com/spreadsheets/d/11g06F_GN3hs1rNFnL_3xnJZGQQO8Xr25ZTH8aL5iiCc/edit#gid=0[IA Examples & Student Ideas^]
+* https://drive.google.com/open?id=1QsqpeyQgNXT-GyiM2Iu-_dTpEqfRk8ji41O2w4D6gt8[Mr Pham's Example - TQI Portfolio Maker^]
 
 ===== Resources
 

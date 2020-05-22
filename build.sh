@@ -38,4 +38,9 @@ git config user.email "cgscomputing@cgs.act.edu.au"
 git config user.name "CGSComputing"
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
+<<<<<<< HEAD
 git push
+=======
+git push
+#git push --quiet > /dev/null 2>&1
+>>>>>>> 344087575e6da930e0b11e38983b886d8c1f23bd
