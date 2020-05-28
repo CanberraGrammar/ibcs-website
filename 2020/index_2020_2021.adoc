@@ -6,6 +6,12 @@ include::index_header.adoc[]
 
 === 2020-2021 (Y11)
 
+==== Assessment
+
+===== Block 1
+
+include::index_2020_2021_b1.adoc[]
+
 ==== Schedule
 
 [cols="9"]
