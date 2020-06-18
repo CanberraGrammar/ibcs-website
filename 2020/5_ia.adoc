@@ -14,6 +14,7 @@ include::header.adoc[]
 * https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_2_e&part=4&chapter=5[IB Publishing Assessment Criteria^]
 * https://ib.compscihub.net/internal-assessment/overview[IB CompSci Hub IA Overview^]
 * https://drive.google.com/open?id=1AoAvAdIaKbhwtOzZUO5VJEVN2wgYma8R[Project Checklist^]
+* https://docs.google.com/document/d/1lL8-7dPlsiIe0h-RMNLzR397vlrneeISHtZMNEeIn4s/edit?usp=sharing[IA Marking Criteria (Broken Down)^]
 
 ===== Examples and Ideas
 
