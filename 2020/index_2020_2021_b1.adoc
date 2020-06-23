@@ -9,11 +9,11 @@
 {set:cellbgcolor:white}
 .^|*https://drive.google.com/open?id=1kEKsWYAy087c_0G0do5LhYMokMrHO4v4RON_amBqLxs[Assignment: Intro to the IA^]*
 .^|Thursday 28 May 2020 (Week 5)
-.^|Tuesday 23 June 2020 (Week 9) by 4:00pm
+.^|Thursday 25 June 2020 (Week 9) by 4:00pm
 ^.^|20%
 
 .^|*In Class Test: Paper 2 - OOP (SL)*
-.^|
+.^|1QTRJUsVw4YtwnOep6_QikVa_OEeVUpUb
 .^|
 ^.^|30%
 
