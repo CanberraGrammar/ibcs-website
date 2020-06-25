@@ -12,6 +12,10 @@ include::index_header.adoc[]
 
 include::index_2020_2021_b1.adoc[]
 
+===== Block 2
+
+include::index_2020_2021_b2.adoc[]
+
 ==== Schedule
 
 [cols="9"]

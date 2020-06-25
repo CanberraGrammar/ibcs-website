@@ -1,0 +1,25 @@
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*IA Part C*
+.^|Thursday 25 June 2020 (Term 2 Week 9)
+.^|Friday 30 October 2020 (Term 4 Week 3) by 8:45am
+^.^|25%
+
+.^|*IA Final*
+.^|2021 (Term 2 Week 9)
+.^|TBA (Term 1 Week 5)
+^.^|25%
+
+.^|*Exam Week: HL Paper 1 - Core (SL - 70 marks, 1h30m)*
+.^|Thursday 25 June 2020 (Term 2 Week 9)
+.^|IB Exam Period (Weeks 6/7?)
+^.^|50%
+
+|===
