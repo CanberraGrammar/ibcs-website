@@ -12,12 +12,12 @@
 .^|Thursday 25 June 2020 (Term 2 Week 9) by 4:00pm
 ^.^|20%
 
-.^|*In Class Test: Paper 2 - OOP (SL - 45 marks, 1h)*
+.^|*https://docs.google.com/document/d/1oe96f2gZOfp1Kzs6PY7yhGbFhP3WM04uyH3e4taiIXU/edit?usp=sharing[In Class Test: Paper 2 - OOP (SL - 45 marks, 1h)^]*
 .^|Thursday 25 June 2020 (Term 2 Week 9)
 .^|Wednesday 12 August 2020 (Term 3 Week 4) during Period 2
 ^.^|30%
 
-.^|*Exam Week: Paper 1 - Core (SL - 70 marks, 1h30m)*
+.^|*https://docs.google.com/document/d/16PF_UHdBrMEqgDy5AK1We1hvwTkDddXMCI6DOM2m8K0/edit?usp=sharing[Exam Week: Paper 1 - Core (SL - 100 marks, 2h10m)^]*
 .^|Thursday 25 June 2020 (Term 2 Week 9)
 .^|IB Exam Period (Term 3 Weeks 8/9)
 ^.^|50%
