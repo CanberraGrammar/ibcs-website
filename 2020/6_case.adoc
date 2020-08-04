@@ -6,6 +6,7 @@ include::6_case_header.adoc[]
 
 ==== 2020 Case Study (Blockchain)
 
+* https://drive.google.com/drive/folders/17upW9gAI_LqaHLsf9VjO5KDEAunycsgM?usp=sharing[Case Study Google Folder^]
 * https://drive.google.com/file/d/1ZociwgzsqBEANZmsYOiVRciKlnNI7zhH/view[2020 Case Study (PDF)^]
 * https://docs.google.com/document/d/1hz-fZVPApgtvPjEuAUU5xvdeT0FnJyNd9qgI9eavLV4/edit#heading=h.3zamodwl0601[2020 Case Study (Google Doc)^]
 * <<6_case_topics.adoc#,Specific Topics (New page)>>
