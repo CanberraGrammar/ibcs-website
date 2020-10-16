@@ -14,3 +14,8 @@ include::header.adoc[]
 ===== Practice Questions
 
 * https://ib.compscihub.net/wp-content/uploads/2016/01/CSIBTopicStudyGuidesTestReview.pdf[IB CompSci Hub: Questions by Topic^]
+
+===== Summary Sheets
+
+* https://docs.google.com/document/d/1DPYTse7pWoCvdSck-jtAlWTkSJQv9heZVteI00efWIY/edit?usp=sharing[Computer Science Final Summary Sheet^]
+* https://docs.google.com/document/d/1Lz2ysyFwgSXxCB67QlE0_e3pNlhoBhI6HxlK3CGGrU0/edit?usp=sharing[Definitive November 2020 Computer Science HL Case Study Summary Sheet^]
