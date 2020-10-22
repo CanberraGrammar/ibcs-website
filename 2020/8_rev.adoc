@@ -18,4 +18,5 @@ include::header.adoc[]
 ===== Summary Sheets
 
 * https://docs.google.com/document/d/1DPYTse7pWoCvdSck-jtAlWTkSJQv9heZVteI00efWIY/edit?usp=sharing[Computer Science Final Summary Sheet^]
+* https://docs.google.com/document/d/1EmXGGg5slMREAr3vnG3f9J1sGSRvtHmB6Y4d9ptt6Fs/edit?usp=sharing[Option C: Web Science Summary Sheet^]
 * https://docs.google.com/document/d/1Lz2ysyFwgSXxCB67QlE0_e3pNlhoBhI6HxlK3CGGrU0/edit?usp=sharing[Definitive November 2020 Computer Science HL Case Study Summary Sheet^]
