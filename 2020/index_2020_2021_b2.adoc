@@ -9,11 +9,11 @@
 {set:cellbgcolor:white}
 .^|*https://docs.google.com/document/d/1iSR11zHArpHTikUQIZ0r40pO2qz9cDgiS2wKD-2ho2g/edit?usp=sharing[Assignment: Computing Project Part C^]*
 .^|Tuesday 11 August 2020 (Term 3 Week 4)
-.^|Friday 30 October 2020 (Term 4 Week 3) by 8:45am
+.^|Thursday 24 November 2020 (Term 4 Week 7) by 8:45am
 ^.^|25%
 
 .^|*IA Final*
-.^|TBA
+.^|TBAjek
 .^|TBA (Term 1 Week 5)
 ^.^|25%
 
