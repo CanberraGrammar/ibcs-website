@@ -4,6 +4,10 @@ include::header.adoc[]
 
 include::6_case_header.adoc[]
 
+==== 2021 Case Study (Genetic Algorithms)
+
+* https://drive.google.com/file/d/15OOhycIhfAjPcJUAcNsycf4HJu7sutDN/view?usp=sharing[2021 Case Study (PDF)^]
+
 ==== 2020 Case Study (Blockchain)
 
 * https://drive.google.com/drive/folders/17upW9gAI_LqaHLsf9VjO5KDEAunycsgM?usp=sharing[Case Study Google Folder^]
