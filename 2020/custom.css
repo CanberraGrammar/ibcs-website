@@ -1,0 +1,112 @@
+table.tableblock.frame-all.grid-all tr td {
+    border: solid 1px #dddddd;
+}
+
+table.tableblock.frame-all.grid-all {
+	border-collapse: collapse;
+}
+
+table {
+	font-size: 14px;
+}
+
+.footnote {
+	font-size: 14px;
+	font-style: italic;
+}
+
+table span.outcomes {
+	font-size: 11px;
+}
+
+.nav, .subnav{
+  margin: 0;
+  padding: 0;
+  position: sticky;
+  height: 50px;
+}
+
+.nav {
+  top: 0px;
+
+}
+
+.subnav {
+  top: 50px;
+  border-top: 1px dotted white;
+
+}
+
+.header_top {
+  margin: 10px;
+  position: sticky;
+  top: 0px;
+  background-color: red;
+}
+
+.nav p, .subnav p {
+  margin: 0;
+  padding: 0;
+  border-right: 1.2px dotted white;
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: navy;
+
+  /*#333;*/
+}
+
+.subnav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  /*#333;*/
+}
+
+.nav ul li, .subnav ul li {
+  float: left;
+  margin: 0px;
+
+}
+
+.nav ul li a, .subnav ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+
+.nav ul li a:hover {
+  background-color: blue;/*#111;*/
+}
+
+.subnav ul li a:hover {
+  background-color: grey;/*#111;*/
+}
+
+.none ul {
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.inline {
+  display: inline;
+  width: 20%;
+}
+
+.right {
+  text-align: right;
+  display: inline;
+  float: right;
+}
